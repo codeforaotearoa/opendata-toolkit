@@ -33,7 +33,7 @@ A few examples that validate the above:
 - Also various websites such as the Danish [folketsting.dk](folketsting.dk) track activity in parliament and the law making processes, so you can see what exactly is happening, and which parliamentarians are involved.
 - It also helps in making more informed personal life decisions, A woman in Denmark built website, which showed all the [Danish public toilets](http://beta.findtoilet.dk/), so that people she knew with bladder problems can now trust themselves to go out more again.
 
-For more examples, see [here](/pages/learn/examples-of-open-data-usage).
+For more examples, see [here](#examples-of-open-data-usage).
 
 In summary, key benefits of open data include:
 

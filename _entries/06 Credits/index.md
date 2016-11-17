@@ -12,4 +12,4 @@ This site was developed by [Vaishnavi Iyer](https://twitter.com/vaishnavi_i_26) 
 
 All content on this site is licensed [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Please attribute Code for Aotearoa.
 
-Refer to our [attributions](/attributions) page for attributions of other work on the site.
+Refer to our [attributions](#attributions) page for attributions of other work on the site.
