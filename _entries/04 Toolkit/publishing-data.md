@@ -14,7 +14,7 @@ Larger, more complex datasets, eg; geospatial will likely be unable to utilise [
 
 You will still be able to index larger datasets in the data.govt.nz search engine, it's just that the resource will be located on an external service.
 
-![Data.govt.nz homepage](/uploads/publishing-data/01-homepage.jpg)
+![Data.govt.nz homepage](uploads/publishing-data/01-homepage.jpg)
 
 The general process for uploading a dataset is as follows:
 

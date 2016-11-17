@@ -12,4 +12,4 @@ For assistance in deciding, you may wish to consult the [NZGOAL framework](https
 
 Once you've successfully uploaded your dataset, you should be able to see it live like so in the catalogue:
 
-![data.govt.nz dataset catalogue entry](/uploads/publishing-data/03-completed-dataset.jpg)
+![data.govt.nz dataset catalogue entry](uploads/publishing-data/03-completed-dataset.jpg)
