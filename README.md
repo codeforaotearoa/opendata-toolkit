@@ -1,19 +1,43 @@
-# Docster
-![docster preview](https://raw.githubusercontent.com/DigitalMindCH/docster-jekyll-theme/gh-pages/img/docster_preview.jpg)
+### Open Data Toolkit
 
-## simple and easy
-That's how we would describe working with docster.
-We first created it, when we needed an index file for a theme documentation. jekyll offered collections which made the organization into smaller chunks of documentation optimal. Especially because the collections did not generate outputs for themselves.
-This theme was created to generate an organized output. It does not require any plugins, which means you can host on GitHub without much effort.
+For the theme, and basic layout, we're using the [Docster](https://github.com/DigitalMindCH/docster-jekyll-theme) theme with the [Jekyll](https://jekyllrb.com/) framework.
 
-## Features
-* Nice syntax highlighting
-* dynamic multi-level navigation
-* Sass stylesheets
+### How do I access the toolkit?
 
-### Documentation
-We don't believe in delivering Code without explanation. Especially not for a documentation theme. So the [Demo](http://digitalmind.ch/themes/docster-jekyll-theme/demo/) doubles as the documentation for Docster, that should help you set up your own docs without any problems.
+Currently, you can see a live version hosted at https://codeforaotearoa.github.io
 
-### Feedback, Wishes, Problems
-If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
-If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
+### How do I run the toolkit locally?
+
+Assuming you have [Ruby](https://www.ruby-lang.org/) installed, you'll need to go ahead and install the Jekyll gem if you don't already have it, like so:
+
+```ruby
+gem install jekyll
+```
+
+Once that's done, you can serve the site:
+
+```ruby
+jekyll serve
+```
+
+which will run it on localhost:4000 by default.
+
+### What about building the toolkit?
+
+If you want to build the site, run
+
+```ruby
+jekyll build
+```
+
+which will output static files to a folder called `docs`. The output can be changed in `config.yml` and is only called docs because that's what Github Pages is serving from.
+
+### How can I help add to it?
+
+If you want to add some changes, you can obtain a copy of the repo using Github. If you're not someone who has used Git heavily, the option to download a `.zip` file exists under the Clone or download button.
+
+You can see the layout by checking the markdown pages in the pages folder to see some examples of how heirarchy and text formatting works.
+
+If you're unable to submit a pull request with your changes, feel free to email any altered markdown files to info@codeforaotearoa.org and we'll manually add them.
+
+Otherwise, if you're familiar with Git, just submit a pull request and we'll have a look.
