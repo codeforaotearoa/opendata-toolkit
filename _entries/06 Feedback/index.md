@@ -1,7 +1,7 @@
 ---
 sectionid: feedback
 sectionclass: h2
-parent-id: credits
+parent-id: feedback
 title: Feedback
 number: 6100
 ---
