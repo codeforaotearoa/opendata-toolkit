@@ -3,7 +3,7 @@ sectionid: why-open-data
 sectionclass: h2
 parent-id: learn
 title: Why Open Data?
-number: 2200
+number: 2100
 ---
 
 Doing Open data is not easy, requires time and resources, and also a challenge to make sure one doesn't cross the fine line between transparency and privacy.

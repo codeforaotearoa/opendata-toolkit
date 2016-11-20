@@ -3,7 +3,7 @@ sectionid: open-data-charter
 sectionclass: h2
 parent-id: learn
 title: Open Data Charter and NZDIMP
-number: 2300
+number: 2200
 ---
 
 What is International Open Data Charter?
