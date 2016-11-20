@@ -1,5 +1,5 @@
 ---
-sectionid: about
+sectionid: home
 sectionclass: h1
 title: Intro to the Open Data Tool Kit
 number: 1000

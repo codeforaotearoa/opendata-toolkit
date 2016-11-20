@@ -1,7 +1,7 @@
 ---
-sectionid: credits
+sectionid: about
 sectionclass: h1
-title: Credits
+title: About
 is-parent: yes
 number: 6000
 ---
