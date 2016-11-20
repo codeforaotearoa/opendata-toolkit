@@ -226,3 +226,22 @@ iframe{
 p + p{
     margin-top: 20px;
 }
+
+table {
+  display: block;
+  width: 90%;
+  overflow: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 5%;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+table td, table th {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}

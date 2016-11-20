@@ -32,11 +32,6 @@
                 
                 
                     <li >
-                        <a href="#what-is-open-data">What is Open Data?</a>
-                        
-                    </li>
-                
-                    <li >
                         <a href="#why-open-data">Why Open Data?</a>
                         
                     </li>
@@ -103,6 +98,26 @@
                 
                     <li class="parent">
                         <a href="#standards">Standards</a>
+                        
+                            <ul>
+                                
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li class="parent">
+                        <a href="#dataset-register">Dataset Register</a>
+                        
+                            <ul>
+                                
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li class="parent">
+                        <a href="#open-data-tools">Open Data Tools</a>
                         
                             <ul>
                                 
@@ -181,17 +196,6 @@
         <section id="learn" class="h1">
             
                     <h1>Learn about Open Data</h1>
-                
-
-            <p>This category will teach more about what Open Data actually is</p>
-
-        </section>
-    
-
-    
-        <section id="what-is-open-data" class="h2">
-            
-                    <h2>What is Open Data?</h2>
                 
 
             <p>What is Open Data?</p>
@@ -450,104 +454,117 @@ The focus of this guide will be generic, easily uploadable datasets such as PDFs
                     <h3>Preparing the Datasets</h3>
                 
 
-            <p>In order to prepare data sets to maximise their usefulness, it’s important to acknowledge the different types of formats available as well as the limitations that they may present:</p>
+            <p>In order to prepare data sets to maximize their usefulness, it’s important to acknowledge the different types of formats available as well as the limitations that they may present:</p>
 
-<table border="1">
+<table>
   <thead>
-    <th colspan="3">Tabular</th>
     <tr>
-      <th>File type</th>
-      <th>Openness</th>
-      <th>Notes</th>
+      <th> </th>
+      <th style="text-align: center"> </th>
+      <th style="text-align: center"><strong>Tabular</strong></th>
+    </tr>
+    <tr>
+      <th>File Type</th>
+      <th style="text-align: center">Openness</th>
+      <th style="text-align: center">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>CSV</td>
-      <td>High</td>
-      <td>The best format for opening structured data (eg. As spreadsheets)</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">The best format for opening structured data (eg. As spreadsheets)</td>
     </tr>
     <tr>
       <td>XLS or XLSX</td>
-      <td>Low</td>
-      <td>Limits machine reading and use on non-Microsoft systems</td>
-  &lt;/tbody&gt;
-  <thead>
-    <th colspan="3">Spatial</th>
-    <tr>
-      <th>File type</th>
-      <th>Openness</th>
-      <th>Notes</th>
+      <td style="text-align: center">Low</td>
+      <td style="text-align: center">Limits machine reading and use on non-Microsoft systems</td>
     </tr>
-  </thead>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>Spatial</strong></td>
+    </tr>
+    <tr>
+      <td>File Type</td>
+      <td style="text-align: center">Openness</td>
+      <td style="text-align: center">Notes</td>
+    </tr>
+  </tbody>
   <tbody>
     <tr>
       <td>KML</td>
-      <td>High</td>
-      <td>An open standard developed for Google Earth. May not translate to other systems. KMZ is also available as a packaged set of KML files.</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">An open standard developed for Google Earth. May not translate to other systems. KMZ is also available as a packaged set of KML files.</td>
     </tr>
     <tr>
       <td>WMS</td>
-      <td>High</td>
-      <td>Standardised format for georeferenced map images</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Standardized format for georeferenced map images</td>
     </tr>
     <tr>
       <td>WFS</td>
-      <td>High</td>
-      <td>Standardised format for geographical features</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Standardized format for geographical features</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>Text</strong></td>
+    </tr>
+    <tr>
+      <td>File Type</td>
+      <td style="text-align: center">Openness</td>
+      <td style="text-align: center">Notes</td>
     </tr>
   </tbody>
-  <thead>
-    <th colspan="3">Text</th>
-    <tr>
-      <th>File type</th>
-      <th>Openness</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>TXT</td>
-      <td>High</td>
-      <td>Simple text format readable on most operating systems. No formatting is available</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Simple text format readable on most operating systems. No formatting is available</td>
     </tr>
     <tr>
       <td>RTF</td>
-      <td>High</td>
-      <td>Simple text format readable on most operating systems which retains some formatting</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Simple text format readable on most operating systems which retains some formatting</td>
     </tr>
     <tr>
       <td>ODT</td>
-      <td>Medium</td>
-      <td>Limits machine reading</td>
+      <td style="text-align: center">Medium</td>
+      <td style="text-align: center">Limits machine reading</td>
     </tr>
     <tr>
       <td>DOC or DOCX</td>
-      <td>Low</td>
-      <td>Limits machine reading and use on non-Microsoft systems</td>
+      <td style="text-align: center">Low</td>
+      <td style="text-align: center">Limits machine reading and use on non-Microsoft systems</td>
     </tr>
     <tr>
       <td>PDF</td>
-      <td>Low</td>
-      <td>Useful for document exchange to preserve formatting, but has limitations for machine reading, character recognition and remixing.</td>
-  &lt;/tbody&gt;
-&lt;/table&gt;
+      <td style="text-align: center">Low</td>
+      <td style="text-align: center">Useful for document exchange to preserve formatting, but has limitations for machine reading, character recognition and remixing.</td>
+    </tr>
+  </tbody>
+</table>
 
-Any **tabular** data should also be cleansed. This means that files should be:
+<p>Any <strong>tabular</strong> data should also be cleansed. This means that files should be:</p>
 
-  - raw - Presented in the simplest possible format with a single header row and
-  - clean - Using uniform data formatting (eg; Numerical dates, postcodes in every field) with no missing entries, no embedded non-text information, data in every field and as few mistakes as possible
+<ul>
+  <li>raw - Presented in the simplest possible format with a single header row and</li>
+  <li>clean - Using uniform data formatting (eg; Numerical dates, postcodes in every field) with no missing entries, no embedded non-text information, data in every field and as few mistakes as possible</li>
+</ul>
 
-**Examples of raw, clean data**
+<p><strong>Examples of raw, clean data</strong></p>
+
 <table>
   <thead>
     <tr>
       <th>Date</th>
       <th>Age</th>
-      <th>Gender&lt;/thSchedule regular updatesupdates&gt;
+      <th>Gender</th>
       <th>Postcode</th>
-    &lt;/tr&gt;
-  &lt;/thead&gt;
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>20/10/2013</td>
@@ -580,14 +597,17 @@ Any **tabular** data should also be cleansed. This means that files should be:
       <td>1800</td>
     </tr>
   </tbody>
-&lt;/table&gt;
+</table>
 
-**Examples of data that is not raw or clean**
+<p><strong>Examples of data that is not raw or clean</strong></p>
 
 <table>
   <thead>
     <tr>
-      <th colspan="4">Copyright of Dept. X</th>
+      <th> </th>
+      <th>Copyright of Dept. X</th>
+      <th> </th>
+      <th> </th>
     </tr>
     <tr>
       <th>Date</th>
@@ -611,25 +631,24 @@ Any **tabular** data should also be cleansed. This means that files should be:
     </tr>
     <tr>
       <td>02/11/2011</td>
-      <td>xx</td>
+      <td>xx*</td>
       <td>Male</td>
       <td>3652</td>
     </tr>
     <tr>
       <td>12/05/2012</td>
-      <td>45*</td>
+      <td>45</td>
       <td>F</td>
       <td>1464</td>
     </tr>
     <tr>
       <td>* Footnote Information</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
-</th></tr></thead></table></tr></tbody></tr></tbody></table>
 
         </section>
     
@@ -703,6 +722,70 @@ Any **tabular** data should also be cleansed. This means that files should be:
     
 
     
+        <section id="dataset-register" class="h2">
+            
+                    <h2>Dataset Register</h2>
+                
+
+            <p>Keeping a simple dataset register helps track what data assets your organisation has, and their status in the pipeline towards eventual release as open data.</p>
+
+<p>The main points to focus on are:</p>
+
+<ul>
+  <li><strong>Where</strong> is the data managed?
+    <ul>
+      <li>Who “owns” it?</li>
+      <li>What system is it in?</li>
+      <li>Which unit does it fall under?</li>
+      <li>Is it already published?</li>
+    </ul>
+  </li>
+  <li><strong>Technical Attributes</strong>
+    <ul>
+      <li>Is it spatial or tabular?</li>
+      <li>How many attributes are there?</li>
+      <li>How often is it updated?</li>
+    </ul>
+  </li>
+  <li><strong>Value to the public</strong>
+    <ul>
+      <li>What are its potential uses?</li>
+      <li>Are there comparable datasets?</li>
+      <li>How unique is the data?</li>
+    </ul>
+  </li>
+  <li><strong>Progress towards being published</strong>
+    <ul>
+      <li>Does the data need cleaning?</li>
+      <li>Has all confidential information been removed?</li>
+      <li>Does it need transforming to meet an Open Data standard?</li>
+      <li>Are all approvals obtained?</li>
+    </ul>
+  </li>
+</ul>
+
+        </section>
+    
+
+    
+        <section id="open-data-tools" class="h2">
+            
+                    <h2>Open Data Tools</h2>
+                
+
+            <p>Here are a number of tools that you may find useful:</p>
+
+<ul>
+  <li><strong><a href="https://github.com">Github</a></strong> is an online source code hosting platform that utilizes the <a href="https://git-scm.com/">Git</a> version control system. If you’re working in a government space, the <a href="https://github.com/government/welcome">Github and Government</a> site is recommended.</li>
+  <li><strong><a href="http://trac.osgeo.org/gdal/wiki/DownloadingGdalBinaries">ogr2ogr</a></strong> is a part of the GDAL library which can be used to translate between a number of geospatial formats, such as Esri Shapefile to GeoJSON. If you are unable to install binaries on your system, there is also an unofficial online interface called <a href="https://github.com/wavded/ogre">OGRE</a>. For more information and examples, <a href="http://www.postgresonline.com/journal/archives/31-GDAL-OGR2OGR-for-Data-Loading.html">this post</a> is worth checking out.</li>
+  <li><strong><a href="https://octopub.io/">Octopub</a></strong> is a site which connects with Github and provides a simple interface for uploading CSV tabular datasets for those who aren’t experienced with Git or Github.</li>
+  <li><strong><a href="http://ckan.org">CKAN</a></strong> is an open source data management system aimed at governments, companies and organizations want a quick way to openly provide datasets to the public. It also comes with API support baked in, allowing automated upload tools to be built by more tech savvy members of your organization.</li>
+</ul>
+
+        </section>
+    
+
+    
         <section id="community" class="h1">
             
                     <h1>Community</h1>
@@ -740,7 +823,7 @@ Any **tabular** data should also be cleansed. This means that files should be:
 
             <ul>
   <li><strong><a href="https://codeforall.org/">Code for All</a></strong> is an international network of organizations who believe that digital technology opens new channels for citizens to more meaningfully engage in the public sphere and have a positive impact on their communities.</li>
-  <li>The <strong><a href="http://theodi.org">Open Data Institute</a></strong></li>
+  <li>The <strong><a href="http://theodi.org">Open Data Institute</a></strong> was formed by Sir Tim Berners-Lee, inventor of the web and AI expert Sir Nigel Shadbolt to bring together both commercial and non-commercial organizations, and governments. They work to help identify address how data will impact their businesses and sectors, and aid in building a strong data infrastructure that uses open standards and licensing.</li>
 </ul>
 
         </section>
@@ -769,7 +852,19 @@ Any **tabular** data should also be cleansed. This means that files should be:
                     <h2>Feedback</h2>
                 
 
-            <p>Feedback form (with its custom HTML layout) would go here</p>
+            <div class="form">
+	<form action="https://formspree.io/info@codeforaotearoa.org" method="POST">
+	    Name
+	    <input type="text" name="name" />
+	    <br />
+	    Email
+	    <input type="email" name="_replyto" />
+	    <br />
+	    Message
+	    <textarea type="text" name="message"></textarea>
+	    <input type="submit" value="Send" />
+	</form>
+</div>
 
         </section>
     

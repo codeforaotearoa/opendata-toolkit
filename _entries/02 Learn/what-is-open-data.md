@@ -1,9 +1,9 @@
 ---
-sectionid: what-is-open-data
-sectionclass: h2
-parent-id: learn
-title: What is Open Data?
-number: 2100
+sectionid: learn
+sectionclass: h1
+is-parent: yes
+title: Learn about Open Data
+number: 2000
 ---
 
 What is Open Data?

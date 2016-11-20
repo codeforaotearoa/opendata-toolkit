@@ -36,7 +36,7 @@ which will output static files to a folder called `docs`. The output can be chan
 
 If you want to add some changes, you can obtain a copy of the repo using Github. If you're not someone who has used Git heavily, the option to download a `.zip` file exists under the Clone or download button.
 
-You can see the layout by checking the markdown pages in the pages folder to see some examples of how heirarchy and text formatting works.
+You can see the layout by checking the markdown pages in the `_entries` folder to see some examples of how hierarchy and text formatting works.
 
 If you're unable to submit a pull request with your changes, feel free to email any altered markdown files to info@codeforaotearoa.org and we'll manually add them.
 
