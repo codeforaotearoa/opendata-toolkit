@@ -6,20 +6,20 @@ title: Preparing the Datasets
 number: 4220
 ---
 
-In order to prepare data sets to maximise their usefulness, it's important to acknowledge the different types of formats available as well as the limitations that they may present:
+In order to prepare data sets to maximize their usefulness, it's important to acknowledge the different types of formats available as well as the limitations that they may present:
 
-|| **Tabular**                ||
+||| **Tabular**                |
 | File Type   | Openness | Notes |
 | ----------- | :------: | :---: |
 | CSV         | High     | The best format for opening structured data (eg. As spreadsheets) |
 | XLS or XLSX | Low      | Limits machine reading and use on non-Microsoft systems |
-|| **Spatial**                ||
+||| **Spatial**                |
 | File Type   | Openness | Notes |
 | ----------- | :------: | :---: |
 | KML         | High     | An open standard developed for Google Earth. May not translate to other systems. KMZ is also available as a packaged set of KML files. |
-| WMS         | High     | Standardised format for georeferenced map images |
-| WFS         | High     | Standardised format for geographical features |
-|| **Text**                   ||
+| WMS         | High     | Standardized format for georeferenced map images |
+| WFS         | High     | Standardized format for geographical features |
+||| **Text**                   |
 | File Type   | Openness | Notes |
 | ----------- | :------: | :---: |
 | TXT         | High     | Simple text format readable on most operating systems. No formatting is available |
