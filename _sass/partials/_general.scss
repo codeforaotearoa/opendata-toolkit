@@ -67,15 +67,15 @@ h1, h2, h3, h4, h5, h6{
     font-weight: $bold;
     line-height: 1;
     color: $green;
+    text-align: left;
 }
 
 h1 {
     font-size: 1.5em;
-    padding: 30px 0 0;
-    text-align: right;
+    padding: 30px 30px 0;
     border-bottom: $green 9px solid;
     width: 100%;
-    line-height: 0.61;
+    line-height: 1;
     margin: 0 0 20px;
 
     &:before {
@@ -93,7 +93,6 @@ h2 {
     font-size: 1.25em;
     padding: 30px 0 0;
     width: 90%;
-    text-align: right;
     border-bottom: 5px solid $green;
     margin: 0 auto 20px;
     line-height: 0.63;
@@ -114,7 +113,6 @@ h3{
     font-size: 1em;
     padding: 20px 0 0;
     width: 90%;
-    text-align: right;
     border-bottom: 4px solid $green;
     margin: 0 auto 20px;
     line-height: 0.65;
@@ -134,7 +132,6 @@ h4{
     font-size: 0.8em;
     padding: 18px 0 0;
     width: 90%;
-    text-align: right;
     border-bottom: 3px solid $green;
     margin: 0 auto 18px;
     line-height: 0.67;
@@ -155,7 +152,6 @@ h5{
     font-size: 1.3em;
     padding: 40px 0 0;
     width: 90%;
-    text-align: left;
     border-bottom: 2px solid $green;
     margin: 0 auto 15px;
     line-height: 0.68;
