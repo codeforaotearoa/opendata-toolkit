@@ -456,102 +456,115 @@ The focus of this guide will be generic, easily uploadable datasets such as PDFs
 
             <p>In order to prepare data sets to maximise their usefulness, it’s important to acknowledge the different types of formats available as well as the limitations that they may present:</p>
 
-<table border="1">
+<table>
   <thead>
-    <th colspan="3">Tabular</th>
     <tr>
-      <th>File type</th>
-      <th>Openness</th>
-      <th>Notes</th>
+      <th> </th>
+      <th style="text-align: center"><strong>Tabular</strong></th>
+      <th style="text-align: center"> </th>
+    </tr>
+    <tr>
+      <th>File Type</th>
+      <th style="text-align: center">Openness</th>
+      <th style="text-align: center">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>CSV</td>
-      <td>High</td>
-      <td>The best format for opening structured data (eg. As spreadsheets)</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">The best format for opening structured data (eg. As spreadsheets)</td>
     </tr>
     <tr>
       <td>XLS or XLSX</td>
-      <td>Low</td>
-      <td>Limits machine reading and use on non-Microsoft systems</td>
-  &lt;/tbody&gt;
-  <thead>
-    <th colspan="3">Spatial</th>
-    <tr>
-      <th>File type</th>
-      <th>Openness</th>
-      <th>Notes</th>
+      <td style="text-align: center">Low</td>
+      <td style="text-align: center">Limits machine reading and use on non-Microsoft systems</td>
     </tr>
-  </thead>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"><strong>Spatial</strong></td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>File Type</td>
+      <td style="text-align: center">Openness</td>
+      <td style="text-align: center">Notes</td>
+    </tr>
+  </tbody>
   <tbody>
     <tr>
       <td>KML</td>
-      <td>High</td>
-      <td>An open standard developed for Google Earth. May not translate to other systems. KMZ is also available as a packaged set of KML files.</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">An open standard developed for Google Earth. May not translate to other systems. KMZ is also available as a packaged set of KML files.</td>
     </tr>
     <tr>
       <td>WMS</td>
-      <td>High</td>
-      <td>Standardised format for georeferenced map images</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Standardised format for georeferenced map images</td>
     </tr>
     <tr>
       <td>WFS</td>
-      <td>High</td>
-      <td>Standardised format for geographical features</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Standardised format for geographical features</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td style="text-align: center"><strong>Text</strong></td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>File Type</td>
+      <td style="text-align: center">Openness</td>
+      <td style="text-align: center">Notes</td>
     </tr>
   </tbody>
-  <thead>
-    <th colspan="3">Text</th>
-    <tr>
-      <th>File type</th>
-      <th>Openness</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>TXT</td>
-      <td>High</td>
-      <td>Simple text format readable on most operating systems. No formatting is available</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Simple text format readable on most operating systems. No formatting is available</td>
     </tr>
     <tr>
       <td>RTF</td>
-      <td>High</td>
-      <td>Simple text format readable on most operating systems which retains some formatting</td>
+      <td style="text-align: center">High</td>
+      <td style="text-align: center">Simple text format readable on most operating systems which retains some formatting</td>
     </tr>
     <tr>
       <td>ODT</td>
-      <td>Medium</td>
-      <td>Limits machine reading</td>
+      <td style="text-align: center">Medium</td>
+      <td style="text-align: center">Limits machine reading</td>
     </tr>
     <tr>
       <td>DOC or DOCX</td>
-      <td>Low</td>
-      <td>Limits machine reading and use on non-Microsoft systems</td>
+      <td style="text-align: center">Low</td>
+      <td style="text-align: center">Limits machine reading and use on non-Microsoft systems</td>
     </tr>
     <tr>
       <td>PDF</td>
-      <td>Low</td>
-      <td>Useful for document exchange to preserve formatting, but has limitations for machine reading, character recognition and remixing.</td>
-  &lt;/tbody&gt;
-&lt;/table&gt;
+      <td style="text-align: center">Low</td>
+      <td style="text-align: center">Useful for document exchange to preserve formatting, but has limitations for machine reading, character recognition and remixing.</td>
+    </tr>
+  </tbody>
+</table>
 
-Any **tabular** data should also be cleansed. This means that files should be:
+<p>Any <strong>tabular</strong> data should also be cleansed. This means that files should be:</p>
 
-  - raw - Presented in the simplest possible format with a single header row and
-  - clean - Using uniform data formatting (eg; Numerical dates, postcodes in every field) with no missing entries, no embedded non-text information, data in every field and as few mistakes as possible
+<ul>
+  <li>raw - Presented in the simplest possible format with a single header row and</li>
+  <li>clean - Using uniform data formatting (eg; Numerical dates, postcodes in every field) with no missing entries, no embedded non-text information, data in every field and as few mistakes as possible</li>
+</ul>
 
-**Examples of raw, clean data**
+<p><strong>Examples of raw, clean data</strong></p>
+
 <table>
   <thead>
     <tr>
       <th>Date</th>
       <th>Age</th>
-      <th>Gender&lt;/thSchedule regular updatesupdates&gt;
+      <th>Gender</th>
       <th>Postcode</th>
-    &lt;/tr&gt;
-  &lt;/thead&gt;
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>20/10/2013</td>
@@ -584,14 +597,17 @@ Any **tabular** data should also be cleansed. This means that files should be:
       <td>1800</td>
     </tr>
   </tbody>
-&lt;/table&gt;
+</table>
 
-**Examples of data that is not raw or clean**
+<p><strong>Examples of data that is not raw or clean</strong></p>
 
 <table>
   <thead>
     <tr>
-      <th colspan="4">Copyright of Dept. X</th>
+      <th> </th>
+      <th>Copyright of Dept. X</th>
+      <th> </th>
+      <th> </th>
     </tr>
     <tr>
       <th>Date</th>
@@ -615,25 +631,24 @@ Any **tabular** data should also be cleansed. This means that files should be:
     </tr>
     <tr>
       <td>02/11/2011</td>
-      <td>xx</td>
+      <td>xx*</td>
       <td>Male</td>
       <td>3652</td>
     </tr>
     <tr>
       <td>12/05/2012</td>
-      <td>45*</td>
+      <td>45</td>
       <td>F</td>
       <td>1464</td>
     </tr>
     <tr>
       <td>* Footnote Information</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
-</th></tr></thead></table></tr></tbody></tr></tbody></table>
 
         </section>
     
