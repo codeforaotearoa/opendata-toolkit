@@ -1,6 +1,7 @@
 ---
 sectionid: defining-goals
 sectionclass: h2
+parent-id: laying-groundwork
 title: Defining the goals of your Open Data initiative
 number: 3100
 ---
