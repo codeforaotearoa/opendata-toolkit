@@ -1,7 +1,7 @@
 ---
 sectionid: should-nz-adopt
 sectionclass: h3
-parent-id: open-data-charter
+parent-id: open-govt-partnership
 title: Should NZ adopt the Open Data Charter?
 number: 2330
 ---

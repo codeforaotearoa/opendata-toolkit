@@ -1,7 +1,7 @@
 ---
 sectionid: nz-meaning
 sectionclass: h3
-parent-id: open-data-charter
+parent-id: open-govt-partnership
 title: What does it mean for New Zealand?
 number: 2320
 ---
