@@ -1,9 +1,9 @@
 ---
 sectionid: feedback
-sectionclass: h2
-parent-id: feedback
+sectionclass: h1
+is-parent: yes
 title: Feedback
-number: 6100
+number: 6000
 ---
 
 <div class="form">
