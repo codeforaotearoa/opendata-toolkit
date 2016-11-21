@@ -10,7 +10,7 @@ From the front page of the [data.govt.nz](https://data.govt.nz) website, you'll 
 
 ![data.govt.nz submission page](uploads/publishing-data/02-submit.jpg)
 
-Your submission to data.govt.nz will a few pieces of information:
+Your submission to data.govt.nz will require a few pieces of information:
 
   - Dataset title
   - A direct link to the dataset
