@@ -3,7 +3,7 @@ sectionid: open-govt-partnership
 sectionclass: h3
 parent-id: open-data-charter
 title: Open Government Partnership
-number: 2330
+number: 2420
 ---
 
 The [Open Government Partnership](http://www.opengovpartnership.org/about/) is a multilateral initiative that aims to secure concrete commitments from governments to promote transparency, empower citizens, fight corruption, and harness new technologies to strengthen governance. In the spirit of multi-stakeholder collaboration, OGP is overseen by a Steering Committee including representatives of governments and civil society organizations.

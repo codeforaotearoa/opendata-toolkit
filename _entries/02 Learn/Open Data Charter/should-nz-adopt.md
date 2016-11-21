@@ -3,7 +3,7 @@ sectionid: should-nz-adopt
 sectionclass: h3
 parent-id: open-data-charter
 title: Should NZ adopt the Open Data Charter?
-number: 2350
+number: 2450
 ---
 
 This is not a simple question and doesn't have a straight-forward answer. There has been a lot of discussion going on around this and to participate in this discussion and read more about it, follow the links below.
