@@ -14,7 +14,7 @@ Watch this video by Open Data NZ team and listen to the team talk about its pote
 
 This is just the tip of the iceberg, there is much more to this. Imagine how much more potential it has when we start talking about collaboration between different agencies and governements.
 
-Some of the key areas where Open Government Data is creating value are:
+**Some of the key areas where Open Government Data is creating value are:**
 
 - Transparency and democratic control
 - Participation
@@ -26,7 +26,7 @@ Some of the key areas where Open Government Data is creating value are:
 - Impact measurement of policies
 - New knowledge from combined data sources and patterns in large data volumes
 
-A few examples that validate the above:
+**A few examples that validate the above:**
 
 - The ['tax tree'] and ['where does my money go'](http://app.wheredoesmymoneygo.org//) are projects that show how tax money is being spent by government.
 - And there’s the example of [how open data saved Canada $3.2 billion in charity tax fraud](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/).
@@ -45,7 +45,7 @@ In the computer world there is something called Linus’ Law, which states: “g
 There can also be long-term or unforeseen benefits in opening data. This is because it is not always possible to predict the kinds of innovation that may evolve in response to the release of open data.
 
 
-###Sources
+**Sources**
 
 - Open Knowledge [‘What is Open?’](https://okfn.org/opendata/) and ['Why Open Data?'](https://okfn.org/opendata/why-open-data/) licensed under CC BY 4.0 International Licence
 - [Open Data Field Guide](https://socrata.com/open-data-field-guide/) – Socrata

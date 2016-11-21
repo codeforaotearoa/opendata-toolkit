@@ -16,19 +16,11 @@ Open Knowledge has a Working Group on **[Open Government Data](http://opengovern
 
 The Working Group is open to everyone and runs a [mailing list](https://lists.okfn.org/mailman/listinfo/open-government), regular conference calls and a [wiki](http://wiki.okfn.org/Wg/government).
 
-[Code for America]() operates as a network focusing on improving government service delivery through technology. They have a project focusing on the creation of municipal open data portals called the Digital Front Door Project. They have also put together an Open Government Playbook which provides guidance on establishing government open data programs.
+- **[Code for America](https://www.codeforamerica.org/)** operates as a network focusing on improving government service delivery through technology. They have a project focusing on the creation of municipal open data portals called the [Digital Front Door Project](http://archive.codeforamerica.org/our-work/initiatives/digitalfrontdoor/). They have also put together an [Open Government Playbook](https://www.codeforamerica.org/resources/providing-access/open-government) which provides guidance to government agencies to run open data programs.
 
-The World Bank
+- In 2014, The World Bank joined forces with the Open Data Institute and Open Knowledge in a project designed to help policy-makers, NGOs and citizens in developing countries to understand and harness the benefits of open data. This resulted in the creation of the World Bank’s **[Open Data Toolkit](http://opendatatoolkit.worldbank.org/en/)** which includes a number of training resources.
 
-In 2014, The World Bank joined forces with the Open Data Institute and Open Knowledge in a project designed to help policy-makers, NGOs and citizens in developing countries to understand and harness the benefits of open data. This resulted in the creation of the World Bank’s Open Data Toolkit which includes a number of training resources.
-
-Sunlight foundation
-
-The Sunlight Foundation is a US non-profit that focuses on open data, tech and journalism in the context of democratic participation. It began operating in 2006 and has produced Open Data Policy Guidelines with a focus on proactive release, engagement, efficiency and economic growth.
-
-Open Government Partnership Open Data Working Group
-
-The Open Government partnership is an international group that launched in 2011. It aims to promote open government more broadly, including open data. It is overseen by a Steering Committee comprising government and non-government representatives. Australia is a participating country of the partnership and is developing an action plan for open government. Consultation on the Australian action plan began on 17 November 2015.
+- The **[Open Government partnership]()** is an international group launched in 2011. It aims to promote open government more broadly, including open data. It is overseen by a Steering Committee comprising government and non-government representatives. 
 
 The OGP Open Data Working Group’s workflow includes:
 

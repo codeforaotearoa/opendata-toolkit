@@ -30,7 +30,9 @@ body {
 }
 
 ul {
-	list-style: none;
+	list-style:disc;
+	list-style-position: inside;
+	margin-left: 1%;
 }
 
 blockquote, q {
