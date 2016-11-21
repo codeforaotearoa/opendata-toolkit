@@ -7,15 +7,15 @@ title: Examples of Open Data usage
 number: 2200
 ---
 
-So, you think Open Data sounds like a really swell proposition but you're still itching to know what it can help accomplish? Surely people aren't interesting X dataset are they?
+So, you think Open Data sounds like a great proposition but you're still keen to know what can actually be achieved with open data? Surely people aren't interested in X dataset are they?
 
-Let us introduce you to a few Open Data oddities that have popped up over the past few years. They may seem peculiar but there's no doubt that they've definitely challenged the assumptions about how useful any given data set may be!
+Let us introduce you to a few interesting uses of Open Data that have popped up over the past few years. They may seem peculiar but there's no doubt that they've definitely challenged the assumptions about how useful any given data set may be!
 
 ### [Adopt A Hydrant](http://www.adoptahydrant.org/)
 
-Adopt a what? Yup, you heard me right. The precise location of fire hydrants in Boston City may put you to sleep at first but what if someone took it and made something, not only enjoyable but also beneficial to the city?
+Adopt a what? Yup, you read it right. The precise location of fire hydrants in Boston City may put you to sleep at first but what if someone took it and made something, not only enjoyable but also beneficial to the city?
 
-A typical snow storm in Boston can blanket the city for days, forcing residents to shovel their driveways but other utilities can remain lost for days. In a life or death situation like a burning build, a firefighter may not have time to dig out a hydrant, let alone spend the time necessarily to locate it under such heavy snowfall.
+A typical snow storm in Boston can blanket the city for days, forcing residents to shovel their driveways but other utilities can remain lost for days. In a life or death situation like a burning building, a firefighter may not have time to dig out a hydrant, let alone spend the time necessarily to locate it under such heavy snowfall.
 
 This was exactly the type of problem solved by [Adopt A Hydrant](http://www.adoptahydrant.org/) using Open Data. Citizens of Boston could 'adopt' a hydrant of their own which they kept clean and shovelled. If they didn't keep up their responsibilities in a timely manner, neighbours would have the opportunity to "steal" their hydrant away from them!
 
@@ -27,13 +27,13 @@ Best of all, it's [open source](https://github.com/codeforamerica/adopt-a-hydran
 
 What do you do if you're a city that has an ever expanding amount of trees but not enough resources to monitor them all? Give them email addresses!
 
-Well, I'm sure there are other alternatives but this crafty application of data and technology produced a website that let Melbourne citizens email specific trees to report issues like broken branches or fallen leaves.
+There have been other alternatives but this crafty application of data and technology produced a website that let Melbourne citizens email specific trees to report issues like broken branches or fallen leaves.
 
 It worked!
 
 Funnily enough, citizens also started expressing their affection for their favourite trees as well, writing in to say how much they adored their luscious leaves or that they were upset about trucks scraping the undersides of branches.
 
-Those are just a few examples of how Open Data can be utilised and even disguised as a novelty at the same time making it much more attractive than something like a survey.
+These are just a few examples of how Open Data can be utilised and even disguised as a novelty at the same time making it much more attractive than something like a survey.
 
 Sources:
 
