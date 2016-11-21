@@ -8,9 +8,9 @@ number: 4230
 
 From the front page of the [data.govt.nz](https://data.govt.nz) website, you'll be able to see an **Add Data** button in the top right corner followed by **Submit Dataset** on the next page.
 
-![data.govt.nz submission page](uploads/publishing-data/02-submit.jpg)
+![data.govt.nz submission page](uploads/02-submit.png)
 
-Your submission to data.govt.nz will a few pieces of information:
+Your submission to data.govt.nz will require a few pieces of information:
 
   - Dataset title
   - A direct link to the dataset

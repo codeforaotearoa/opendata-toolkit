@@ -8,7 +8,7 @@ number: 2000
 
 What is Open Data?
 
-According to Open Data Institute, “Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and medical researchers to develop resources which make crucial improvements to their communities.”
+According to the Open Data Institute, “Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and medical researchers to develop resources which make crucial improvements to their communities.”
 
 What is Open Government Data?
 
@@ -16,10 +16,6 @@ Open government data means:
 
 Data produced or commissioned by government or government controlled entities
 Data which is open as defined in the Open Definition – that is, it can be freely used, reused and redistributed by anyone.
-
-What is good Open Data?
-
-// need to think of an alternative question.
 
 What is machine readable data?
 

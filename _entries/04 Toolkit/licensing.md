@@ -6,10 +6,8 @@ title: Licensing
 number: 4100
 ---
 
-It can be tough deciding how to release your code into the outside world.
+It can be tough deciding how to license your open data for release.
 
-There’s so many licenses, each all doing different things and aaah, it’s just a nightmare, right?
+There are many licenses, each all doing different things and it can be difficult to decide which way to go.
 
-Thankfully, Open Data NZ have tackled this beast with the New Zealand Government Open Access and Licensing (NZGOAL) Framework.
-
-Of course, you’re free to pick and choose as you like but if you feel that you need guidance in this area, it’s definitely worth a read.
+Thankfully, New Zealand has the [New Zealand Government Open Access and Licensing (NZGOAL) framework](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/)
