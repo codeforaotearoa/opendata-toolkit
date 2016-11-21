@@ -132,7 +132,7 @@ h4{
     width: 90%;
     border-bottom: 3px solid $green;
     margin: 0 auto 18px;
-   
+
 
     &:before {
         content: counter(h1-counter) "." counter(h2-counter) "." counter(h3-counter) "." counter(h4-counter) " ";
@@ -152,7 +152,7 @@ h5{
     width: 90%;
     border-bottom: 2px solid $green;
     margin: 0 auto 15px;
-    
+
 
     &:before {
         content: counter(h1-counter) "." counter(h2-counter) "." counter(h3-counter) "." counter(h4-counter) "." counter(h5-counter) " ";
@@ -221,6 +221,8 @@ p + p{
     margin-top: 20px;
 }
 
+/* Table Styles */
+
 table {
   display: block;
   width: 90%;
@@ -238,4 +240,44 @@ table tr {
 table td, table th {
   padding: 6px 13px;
   border: 1px solid #ddd;
+}
+
+/* Form Styles */
+
+input, textarea, select {
+  border: 1px solid #5b616b;
+  border-radius: 0;
+  box-sizing: border-box;
+  color: #000;
+  display: block;
+  font-size: 1.7rem;
+  margin: .2em 0;
+  max-width: 46rem;
+  width: 100%;
+  outline: none;
+  padding: 1rem .7em;
+  line-height: normal;
+}
+
+form button[type="submit"], form input[type="submit"] {
+  padding-left: 2.7em;
+  padding-right: 2.7em;
+  width: auto;
+  display: block;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5em;
+  background-color: #0071bc;
+  border: 0;
+  border-radius: .3rem;
+  color: #fff;
+  font-size: 1.7rem;
+  line-weight: 700;
+  line-height: 1;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  margin-right: .5em;
+  outline: none;
+  padding: 1rem 2rem;
+  text-align: center;
+  text-decoration: none;
 }
