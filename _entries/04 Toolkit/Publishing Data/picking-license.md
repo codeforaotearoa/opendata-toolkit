@@ -12,4 +12,4 @@ In New Zealand, the [NZGOAL framework](https://www.ict.govt.nz/guidance-and-reso
 
 Once you've successfully listed your dataset on [data.govt.nz](data.govt.nz), you should be able to see the listing live in the catalogue:
 
-![data.govt.nz dataset catalogue entry](uploads/publishing-data/03-completed-dataset.jpg)
+![data.govt.nz dataset catalogue entry](uploads/03-completed-dataset.png)

@@ -11,7 +11,7 @@ _This guide will be most useful to IT managers, GIS coordinators, asset managers
 
 The focus of this guide will be generic, easily uploadable datasets such as CSVs, spreadsheets and so on.
 
-![Data.govt.nz homepage](uploads/publishing-data/01-homepage.jpg)
+![Data.govt.nz homepage](uploads/01-homepage.png)
 
 ## Listing your dataset on data.govt.nz
 
