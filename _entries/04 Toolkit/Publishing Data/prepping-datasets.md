@@ -30,8 +30,8 @@ In order to prepare data sets to maximize their usefulness, it's important to ac
 
 Any **tabular** data should also be cleansed. This means that files should be:
 
-  - raw - Presented in the simplest possible format with a single header row and
-  - clean - Using uniform data formatting (eg; Numerical dates, postcodes in every field) with no missing entries, no embedded non-text information, data in every field and as few mistakes as possible
+  - Raw - Presented in the simplest possible format with a single header row and
+  - Clean - Using uniform data formatting (eg; numerical dates, postcodes in every field) with no missing entries, no embedded non-text information, data in every field and as few mistakes as possible
 
 **Examples of raw, clean data**
 

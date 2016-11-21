@@ -3,7 +3,7 @@ sectionid: new-zealand
 sectionclass: h2
 parent-id: community
 title: New Zealand
-number: 5100
+# number: 5100
 ---
 
 - **[R9 Accelerator](http://www.r9accelerator.co.nz/)** was formed as testing ground for innovative solutions to everyday issues within government. Creatives from both the public and private space have three months in which they conduct a deep dive into areas of opportunity. During that time, they come to understand the issues that government is facing and invent solutions to help better aid their customers
