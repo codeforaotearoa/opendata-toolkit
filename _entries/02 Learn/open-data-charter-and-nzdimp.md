@@ -1,9 +1,9 @@
 ---
-sectionid: open-data-charter
+sectionid: open-govt-partnership
 sectionclass: h2
 parent-id: learn
 is-parent: yes
-title: Open Data Charter and NZDIMP
+title: Open Government Partnership
 number: 2300
 ---
 
