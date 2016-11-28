@@ -43,7 +43,7 @@ In the computer world there is something called Linus’ Law, which states: “g
 There can also be long-term or unanticipated benefits to opening data. This is because it is not always possible to predict the kinds of innovation that may evolve in response to the release of open data.
 
 
-**Sources**
+Sources:
 
 - Open Knowledge [‘What is Open?’](https://okfn.org/opendata/) and ['Why Open Data?'](https://okfn.org/opendata/why-open-data/)
 - [Open Data Field Guide](https://socrata.com/open-data-field-guide/) – Socrata
