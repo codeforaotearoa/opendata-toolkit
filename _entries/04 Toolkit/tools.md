@@ -10,7 +10,7 @@ number: 4500
 Here are a number of tools that you may find useful:
 
 
-* **[Koordinates]**
+* **[Koordinates]** is a New Zealand based company that sources geospatial datasets from numerous parties from Government departments to independent businesses.
 * **[CKAN](http://ckan.org)** is an open source data management system aimed at governments, companies and organizations want a quick way to openly provide datasets to the public. It also comes with API support included, allowing automated upload tools to be built by more tech savvy members of your organisation.
 * **[Socrata](https://socrata.com)** provides cloud-based visualization and analysis tools for opening government data. It describes itself as a turn-key solution that is built to be simple to deploy with minimal technical knowledge.
 * **[Github](https://github.com)** is an online source code hosting platform that utilizes the [Git](https://git-scm.com/) version control system.
