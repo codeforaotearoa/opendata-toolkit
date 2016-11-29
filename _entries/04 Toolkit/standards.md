@@ -4,7 +4,7 @@ sectionclass: h2
 parent-id: toolkit
 is-parent: yes
 title: Open Data Standards
-number: 4300
+number: 4200
 ---
 
 Open Data is spreading across the globe, however by majority, this is happening without well documented standards, and the result is inconsistent meta-data, no uniform approval process, no uniform normalisation process and conflicting terms of use. All making it difficult for users to discover or use the data they want and need.

@@ -4,7 +4,7 @@ sectionclass: h2
 parent-id: toolkit
 is-parent: yes
 title: Dataset Register
-number: 4400
+number: 4300
 ---
 
 Keeping a simple dataset register helps track what data assets your organisation has, and their status in the pipeline towards eventual release as open data.

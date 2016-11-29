@@ -4,7 +4,7 @@ sectionclass: h2
 parent-id: toolkit
 is-parent: yes
 title: Publishing Data
-number: 4200
+number: 4100
 ---
 
 _This guide will be most useful to IT managers, GIS coordinators, asset managers and database admin._
