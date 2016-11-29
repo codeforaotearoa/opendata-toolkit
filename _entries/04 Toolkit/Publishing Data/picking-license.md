@@ -3,7 +3,7 @@ sectionid: picking-license
 sectionclass: h3
 parent-id: publishing-data
 title: Picking a license
-number: 4240
+number: 4140
 ---
 
 Licensing is easily the most important aspect of releasing your dataset. It will determine whether or not your dataset can be used for a commercial purpose, publically redistributed and/or whether or not others have to provide attribution for your work.

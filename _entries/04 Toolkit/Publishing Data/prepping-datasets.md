@@ -3,7 +3,7 @@ sectionid: preparing-datasets
 sectionclass: h3
 parent-id: publishing-data
 title: Preparing the Datasets
-number: 4220
+number: 4120
 ---
 
 In order to prepare data sets to maximize their usefulness, it's important to acknowledge the different types of formats available as well as the limitations that they may present:
